@@ -7,7 +7,7 @@ a collection of regex expressions
 - express:
 
 ``` 
-  [\w]*="[ {}\w\.\-:;]*"
+[\w]*="[ {}\w\.\-:;]*"
 ```
 
 - used in: vs code
